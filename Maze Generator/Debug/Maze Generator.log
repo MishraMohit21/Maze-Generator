@@ -1,0 +1,7 @@
+﻿  Generator.cpp
+C:\dev\Game Dev\SFML_Framework\Maze Generator\Maze Generator\Generator.cpp(216,20): warning C4018: '<': signed/unsigned mismatch
+C:\dev\Game Dev\SFML_Framework\Maze Generator\Maze Generator\Generator.cpp(227,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\Game Dev\SFML_Framework\Maze Generator\Maze Generator\Generator.cpp(227,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\Game Dev\SFML_Framework\Maze Generator\Maze Generator\Generator.cpp(250,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\Game Dev\SFML_Framework\Maze Generator\Maze Generator\Generator.cpp(250,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Maze Generator.vcxproj -> C:\dev\Game Dev\SFML_Framework\Maze Generator\Debug\Maze Generator.exe
